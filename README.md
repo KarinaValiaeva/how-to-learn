@@ -38,15 +38,17 @@
 .rotation {
   animation: rotation 20s infinite;
 }
-```;
+```
 
 * заголовок "Научиться учиться", использована технология flexbox-вёрстки;
 * подзаголовок.
+
 2. Контент
 ```html
 <main class="content">
 ```
 Блок контент содержит в себе 9 секций.
+
 3. Подвал
 ```html
 <footer class="footer">
